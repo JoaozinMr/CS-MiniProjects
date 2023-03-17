@@ -1,0 +1,11 @@
+H:\POO\Pag15\Pag15\bin\Debug\Pag15.exe.config
+H:\POO\Pag15\Pag15\bin\Debug\Pag15.exe
+H:\POO\Pag15\Pag15\bin\Debug\Pag15.pdb
+H:\POO\Pag15\Pag15\obj\Debug\Pag15.csproj.AssemblyReference.cache
+H:\POO\Pag15\Pag15\obj\Debug\Pag15.csproj.SuggestedBindingRedirects.cache
+H:\POO\Pag15\Pag15\obj\Debug\Pag15.Properties.Resources.resources
+H:\POO\Pag15\Pag15\obj\Debug\Pag15.csproj.GenerateResource.cache
+H:\POO\Pag15\Pag15\obj\Debug\Pag15.csproj.CoreCompileInputs.cache
+H:\POO\Pag15\Pag15\obj\Debug\Pag15.exe
+H:\POO\Pag15\Pag15\obj\Debug\Pag15.pdb
+H:\POO\Pag15\Pag15\obj\Debug\Pag15.btnMaior.resources

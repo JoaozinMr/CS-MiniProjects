@@ -1,0 +1,11 @@
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Apostila\Pag11\Pag11\bin\Debug\Pag11.exe.config
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Apostila\Pag11\Pag11\bin\Debug\Pag11.exe
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Apostila\Pag11\Pag11\bin\Debug\Pag11.pdb
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Apostila\Pag11\Pag11\obj\Debug\Pag11.csproj.AssemblyReference.cache
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Apostila\Pag11\Pag11\obj\Debug\Pag11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Apostila\Pag11\Pag11\obj\Debug\Pag11.Form1.resources
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Apostila\Pag11\Pag11\obj\Debug\Pag11.Properties.Resources.resources
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Apostila\Pag11\Pag11\obj\Debug\Pag11.csproj.GenerateResource.cache
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Apostila\Pag11\Pag11\obj\Debug\Pag11.csproj.CoreCompileInputs.cache
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Apostila\Pag11\Pag11\obj\Debug\Pag11.exe
+C:\Users\Jane Vieira\OneDrive\Documentos\JOÃO GABRIEL\www\POO\Apostila\Pag11\Pag11\obj\Debug\Pag11.pdb
